@@ -33,7 +33,7 @@
         "node": "*"
     },
     "dependencies": {
-        "deepmerge": "~2.1.1",
+        "deepmerge": "~4.1.1",
         "handlebars": "~4.0.11",
         "pepjs": "~0.4.3",
         "babylonjs": ">3.3.0-alpha",
